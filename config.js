@@ -25,7 +25,7 @@ global.author = 'ℓσвσ'
 
 //--info FG
 global.botName = 'ηαкαησ вσт'
-global.fgig = 'https://instagram.com/fg98_ff' 
+global.fgig = 'https://www.instagram.com/lobo_random_oficial?igsh=NjV1ZnNhOXU1YjBs' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
 global.fgpyp = 'https://paypal.me/fg98f'
