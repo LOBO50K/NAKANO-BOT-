@@ -40,7 +40,7 @@ export async function before(m, { conn }) {
         mediaType: 'VIDEO',
         description: 'canal del grupo',
         title: packname,
-        body: 'Canal de FG98',
+        body: 'CANAL DE LOBO',
         thumbnailUrl: pp,
         sourceUrl: fgcanal
       }
