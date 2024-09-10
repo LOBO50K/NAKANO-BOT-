@@ -1,16 +1,9 @@
- 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=FG98F&color=brightgreen" />
-<p/>
-<p align="center">
-<a href="https://github.com/FG98F"><img title="Author" src="https://img.shields.io/badge/Senna Bot-black?style=for-the-badge&logo=whatsApp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/FG98F?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/FG98F?label=Followers&style=social"></a>
-<a href="https://github.com/FG98F/senna-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FG98F/senna-bot?&style=social"></a>
-<a href="https://github.com/FG98F/senna-bot/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FG98F/senna-bot?style=social"></a>
-<a href="https://github.com/FG98F/senna-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FG98F/senna-bot?label=Watching&style=social"></a>
-</p>
+> 🚩 Versión Actual: 2.0.6
+
+## 💞 **`𝙽𝙰𝙺𝙰𝙽𝙾 - 𝙱𝙾𝚃 - 𝙾𝙵𝙲`**
+## 💞 **`EL BOT MAS DIVERTIDO DE WHATSAPP`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Nakano+-+Bot+-+OFC;Gracias+por+preferirnos;Creado+por+Lobo;💖+Sensei!!!;💞)](https://git.io/typing-svg)
+![Nakano](https://telegra.ph/file/ba3bb9737d903a0994570.jpg)
 
 
 
