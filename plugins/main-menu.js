@@ -29,11 +29,11 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-◈ ━━━━━ *Senna  ┃ ᴮᴼᵀ* ━━━━━ ◈
+◈ ━━━━━ *( ˘ ³˘)♥𝓝𝓪𝓴𝓪𝓷𝓸 𝓑𝓸𝓽* ━━━━━ ◈
  
-👋🏻 Hola! *%name*
-👥 Usuarios : %totalreg
-🟢 Tiempo activo : %muptime
+ 𝓑𝓲𝓮𝓷𝓿𝓮𝓷𝓲𝓭𝓸 𝓪 𝓷𝓾𝓮𝓼𝓽𝓻𝓸 𝓶𝓮𝓷𝓾 *%name*
+👥 𝑼𝒔𝒖𝒂𝒓𝒊𝒐𝒔 : %totalreg
+🟢 𝑻𝒊𝒆𝒎𝒑𝒐 𝒂𝒄𝒕𝒊𝒗𝒂 : %muptime
 %sbot
 ▢ ADD
 • https://instagram.com/fg98_ff
@@ -42,14 +42,14 @@ const defaultMenu = {
 
 ────────────
 %readmore
-  ≡ *LISTA DE MENUS*
+  ≡ *(づ ◕‿◕ )づ𝕸𝖊𝖓𝖚 𝖈𝖔𝖒𝖕𝖑𝖊𝖙𝖔*
 
 Ⓟ = Premium
 ⓓ = Diamantes
 `.trimStart(),
-  header: '┌─⊷ *%category*',
+  header: '┌─⊷💞 *%category* 💖',
   body: '▢ %cmd %isdiamond %isPremium',
-  footer: '└───────────\n',
+  footer: '└════💝══════💕\n',
   after: `
 `,
 }
