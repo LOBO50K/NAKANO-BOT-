@@ -5,15 +5,15 @@ let handler = async(m, { conn, usedPrefix, command }) => {
 ≡ ${mssg.donate}
 
 ▢ *PayPal*
-• *Link :* https://paypal.me/fg98f
+• *Link :* https://www.paypal.me/BenjaBarreto
 
 ▢ *Mercado Pago Arg*
-• *Alias :* fgmods
+• *Alias :* Benja-123
 
 ▢ *Naranja X Arg*
-• *Alias :* fgmods2
+• *Alias :* 
 `
-let img = 'https://i.ibb.co/37FP2bk/donate.jpg'
+let img = 'https://i.ibb.co/gmfLXZ7/file.jpg'
 conn.sendFile(m.chat, img, 'img.jpg', don, m, null, rpyp)
 //conn.sendPayment(m.chat, '2000', 'USD', don, m.sender, m)
 }
