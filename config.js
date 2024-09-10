@@ -20,11 +20,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Senna┃ᴮᴼᵀ' 
-global.author = '@fg98' 
+global.packname = '𝕹𝖆𝖐𝖆𝖓𝖔 𝖇𝖔𝖙' 
+global.author = 'ℓσвσ' 
 
 //--info FG
-global.botName = 'Senna'
+global.botName = 'ηαкαησ вσт'
 global.fgig = 'https://instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
@@ -32,11 +32,11 @@ global.fgpyp = 'https://paypal.me/fg98f'
 global.fglog = 'https://i.ibb.co/1zdz2j3/logo.jpgs' 
 
 //--- Grupos WA
-global.id_canal = '120363177092661333@newsletter' //-ID de canal de WhatsApp
-global.fgcanal = 'https://whatsapp.com/channel/0029VaCeuZd6mYPQiWqxXj1F'
-global.bgp = 'https://chat.whatsapp.com/BESBo5xjvIZE4YVvth6Yzr'
-global.bgp2 = 'https://chat.whatsapp.com/I7bvd8XCAOUHjgkHteqFC7'
-global.bgp3 = 'https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH' //--GP NSFW
+global.id_canal = '120363283921434745@newsletter' //-ID de canal de WhatsApp
+global.fgcanal = 'https://whatsapp.com/channel/0029VaXDEwlC1FuFm82otA0K' //CANAL TEAM NAKANO
+global.bgp = 'https://chat.whatsapp.com/DToXV6TAU8xFH1vBFT9lrq' //GRUPO OFC NAKANO-BOT 
+global.bgp2 = 'https://chat.whatsapp.com/DjyF7hEXW95ADpZbG6YqTp' //GRUPO NSFW NAKANO
+global.bgp3 = 'https://chat.whatsapp.com/CnN4LfY1LfB5RBbiNWOCct' //--COLABORACIONES NAKANO/KURODA
 
 global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
 global.rwait = '⌛'
